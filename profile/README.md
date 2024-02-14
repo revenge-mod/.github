@@ -9,8 +9,8 @@ Vendetta is a platform-agnostic modification of Discord mobile apps. **Revenge i
 
 ### ⬇️ How to install?
 
-- For rooted users, you can install an Xposed framework *(eg. LSPosed)* and use the [Xposed module](<https://github.com/revenge-mod/RevengeXposed>).
-- If you don't know what that means, [follow this guide](<https://github.com/revenge-mod/Revenge#%EF%B8%8F-installing>).
+- For **rooted Android** users, you can install an Xposed framework *(eg. LSPosed)* and use the [Xposed module](<https://github.com/revenge-mod/RevengeXposed>).
+- If you don't know what that means or don't have that, [follow this guide](<https://github.com/revenge-mod/Revenge#%EF%B8%8F-installing>).
 
 ## 🖇️ Links
 
